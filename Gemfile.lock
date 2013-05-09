@@ -1,0 +1,16 @@
+PATH
+  remote: .
+  specs:
+    geoip-db (2013.05)
+      geoip
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    geoip (1.1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  geoip-db!
