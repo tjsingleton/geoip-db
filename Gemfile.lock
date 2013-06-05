@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    geoip-db (2013.05)
+    geoip-db (2013.06)
       geoip
 
 GEM
