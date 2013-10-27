@@ -1,8 +1,8 @@
 Gem::Specification.new do |s|
   # required
   s.name        = "geoip-db"
-  s.version     = '2013.06'
-  s.date        = '2013-06-05'
+  s.version     = '2013.10'
+  s.date        = '2013-10-26'
   s.summary     = "Packaged IP Geolocation Database. This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com."
   s.files       = [*`git ls-files`.split, *Dir['data/*']]
 
